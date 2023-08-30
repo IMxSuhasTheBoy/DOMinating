@@ -1,4 +1,5 @@
 let bulb = document.querySelector("#bulb");
+
 let test;
 
 let btn = document.querySelector("button");
