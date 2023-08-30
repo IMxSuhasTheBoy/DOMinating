@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+h1{
+    font-size: 4rem;
+}
+
+#bulb {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 4px solid #000;
+    /* background-color: #fbff00; */
+}
+
+button{
+    padding: 20px 20px;
+    font-size: 1.2rem;
+    margin: 80px;
+}
+
+h2{
+    color: rgb(255, 0, 212);
+}
